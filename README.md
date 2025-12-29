@@ -1,3 +1,3 @@
-This repository contains my Data Analysis on Biology datasets. 
-Focus areas includes data analysis for biological and genomic datasets.
-Its include Python scripts, jupyter notebooks and Data experiments.
+This repository contains summaries of research paper which I read.
+Focus areas includes bioinformatics and genomics research papers.
+The goal is to build strong fundamentals in  research paper.
